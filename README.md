@@ -23,5 +23,4 @@ Penggunaan Fitur-fitur Ekstra: Anda bisa bereksperimen dengan teknik ekstraksi f
 Any suggestions or feedback, please don't hesitate to contact me:
 
 Email: ssaayuryz@gmail.com
-
-LinkedIn: http://www.linkedin.com/in/regina-christine-2780a7346
+ & LinkedIn: http://www.linkedin.com/in/regina-christine-2780a7346
