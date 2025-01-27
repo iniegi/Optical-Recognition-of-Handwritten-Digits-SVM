@@ -20,8 +20,8 @@ Peningkatan Model: Anda dapat mencoba kernel non-linear (misalnya, rbf) pada SVM
 Implementasi Praktis: Meskipun model SVM sangat efektif untuk pengenalan digit tulisan tangan, penting untuk memastikan validasi silang yang tepat sebelum implementasi lebih lanjut.
 Penggunaan Fitur-fitur Ekstra: Anda bisa bereksperimen dengan teknik ekstraksi fitur atau dimensionality reduction, seperti PCA, untuk meningkatkan kinerja model.
 
-**Kontak**
-
 Any suggestions or feedback, please don't hesitate to contact me:
+
 Email: ssaayuryz@gmail.com
+
 LinkedIn: http://www.linkedin.com/in/regina-christine-2780a7346
