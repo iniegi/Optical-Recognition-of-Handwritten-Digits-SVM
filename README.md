@@ -1,5 +1,5 @@
 # Optical-Recognition-of-Handwritten-Digits-SVM
-Berikut adalah contoh untuk proyek Optical Recognition of Handwritten Digits menggunakan SVM (Support Vector Machine), mirip dengan contoh yang Anda berikan untuk klasifikasi kanker payudara dengan Random Forest. Kode ini melibatkan dataset dari sklearn.datasets, dengan fokus pada klasifikasi menggunakan Support Vector Machine (SVM).
+Berikut adalah contoh untuk proyek Optical Recognition of Handwritten Digits menggunakan SVM (Support Vector Machine). Kode ini melibatkan dataset dari sklearn.datasets, dengan fokus pada klasifikasi menggunakan Support Vector Machine (SVM).
 
 **Tujuan (Goals):**
 
